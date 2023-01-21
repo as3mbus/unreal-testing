@@ -3,3 +3,5 @@ Binaries/
 /Intermediate
 .DS_Store
 !git-lfs.exe
+!Resources/*
+!Screenshots/*
